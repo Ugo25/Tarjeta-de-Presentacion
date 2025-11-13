@@ -1,8 +1,7 @@
 <?php
-// Incluir las variables
+
 include 'index.php';
 
-// 2. Mostrar la tarjeta usando echo y concatenación
 echo "<!DOCTYPE html>";
 echo "<html lang='es'>";
 echo "<head>";
